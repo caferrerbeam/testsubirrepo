@@ -1,0 +1,64 @@
+# Directories #
+/build/
+bin/
+repos/
+/repos/
+doc/
+/doc/
+.gradle/
+/bin/
+target/
+
+# OS Files #
+.DS_Store
+
+# JetBrain's Idea specific stuff #
+
+.idea*
+*.iml
+
+## File-based project format:
+*.iws
+
+## Plugin-specific files:
+
+# IntelliJ
+/out/
+
+# mpeltonen/sbt-idea plugin
+.idea_modules/
+*.class
+browscap.csv
+gradle/wrapper
+gradlew.bat
+gradlew
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.db
+
+######################
+# Windows
+######################
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+######################
+# OSX
+######################
+
+.DS_Store
+.svn
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
